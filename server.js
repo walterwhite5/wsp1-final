@@ -9,6 +9,8 @@ import bcrypt, { hash } from "bcrypt"
 const app = express()
 const port = 3000
 
+
+
 nunjucks.configure("views", {
   autoescape: true,
   express: app,
