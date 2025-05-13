@@ -36,7 +36,7 @@ app.get("/", (req, res) => {
     req.session.views = 1
   }
   res.render("index.njk",
-    { title: "Test", message: "Funkar?", views: req.session.views }
+    { title: "Webbtillgänglighet sak grej", message: "Funkar!", views: req.session.views }
   )
 })
 
