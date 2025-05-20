@@ -11,3 +11,25 @@ body {
   .test1 {
     margin: auto;
   }
+
+  .test2 {
+    margin: auto;
+    padding-top: 6rem;
+    padding-left: 12rem;
+    padding-right: 12rem;
+  }
+
+  .test3 {
+    margin: auto;
+    padding-top: 6rem;
+    padding-left: 12rem;
+    padding-right: 12rem;
+  }
+
+  .test4 {
+    margin: auto;
+    padding-top: 6rem;
+    padding-left: 12rem;
+    padding-right: 12rem;
+    padding-bottom: 8rem;
+  }
